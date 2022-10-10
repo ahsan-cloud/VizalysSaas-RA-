@@ -1,0 +1,14 @@
+{
+    "paymentRegisterType": 2,
+    "paymentType": 0,
+    "businessPartnerId": 2,
+    "accountId": "e93a35fd-aaa1-410e-b604-a33c85c1f21f-2",
+    "paymentDate": "2022-09-05",
+    "paymentRegisterId": "79ae6656-8078-4e51-900d-37d0a3ec4631-2",
+    "description": "For Jmeter Entry.",
+    "grossPayment": 950.456,
+    "discount": 10,
+    "salesTax": 5,
+    "incomeTax": 5,
+    "isSubmit": false
+}

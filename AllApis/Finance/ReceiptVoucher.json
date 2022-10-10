@@ -1,0 +1,14 @@
+{
+    "paymentRegisterType": 2,
+    "paymentType": 0,
+    "businessPartnerId": 2,
+    "accountId": "3777e8e1-078e-4ce0-a68d-2dded04b79e5-2",
+    "paymentDate": "2022-09-13",
+    "paymentRegisterId": "79ae6656-8078-4e51-900d-37d0a3ec4631-2",
+    "description": "abc",
+    "grossPayment": 850,
+    "discount": 5,
+    "salesTax": 5,
+    "incomeTax": 5,
+    "isSubmit": false
+}

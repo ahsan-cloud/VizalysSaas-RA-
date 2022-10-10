@@ -1,0 +1,12 @@
+{
+  "userName": "ali",
+  "email": "ali@gmail.com",
+  "password": "Loss@123",
+  "confirmPassword": "Loss@123",
+  "userRoles": [
+    {
+      "roleName": "SuperAdmin",
+      "selected": true
+    }
+  ]
+}

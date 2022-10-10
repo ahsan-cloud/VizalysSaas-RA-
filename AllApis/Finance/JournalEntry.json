@@ -1,0 +1,21 @@
+{
+    "date": "2022-09-05",
+    "description": "For Jmeter Testing Entry.",
+    "journalEntryLines": [
+        {
+            "accountId": "12275e9d-30af-4c95-b2a1-d88777e517d4-2",
+            "businessPartnerId": 2,
+            "description": "For Jmeter Testing Entry.",
+            "debit": 1150,
+            "locationId": 4
+        },
+        {
+            "accountId": "12275e9d-30af-4c95-b2a1-d88777e517d4-2",
+            "businessPartnerId": 2,
+            "description": "For Jmeter Testing Entry.",
+            "credit": 1150,
+            "locationId": 4
+        }
+    ],
+    "isSubmit": false
+}

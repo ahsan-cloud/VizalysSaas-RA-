@@ -1,0 +1,10 @@
+{
+    "productName": "Printer",
+    "purchasedOrSold": 1,
+    "productType": 1,
+    "categoryId": 2,
+    "salesPrice": "4500",
+    "cost": "3500",
+    "salesTax": "5",
+    "barcode": "BB-44"
+}

@@ -1,0 +1,18 @@
+{
+    "customerId": 2,
+    "invoiceDate": "2022-09-06",
+    "dueDate": "2022-09-07",
+    "contact": "0345678952",
+    "invoiceLines": [
+        {
+            "itemId": 4,
+            "description": "For Jmeter Testing Entry.",
+            "price": 12000.46,
+            "quantity": 2,
+            "tax": 10,
+            "accountId": "53252623-b3d2-4157-9bea-a5ea416a1d23-2",
+            "locationId": 4
+        }
+    ],
+    "isSubmit": false
+}

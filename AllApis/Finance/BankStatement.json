@@ -1,0 +1,15 @@
+{
+    "bankAccountId": 2,
+    "description": "rrr",
+    "openingBalance": 250,
+    "bankStmtLines": [
+        {
+            "id": 0,
+            "reference": 1,
+            "stmtDate": "2022-08-04",
+            "label": "Label",
+            "debit": 540,
+            "credit": 0
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "roleName": "Procurement Admin",
+    "roleClaims": [
+        {
+            "type": "Permission",
+            "value": "Permissions.AuthClaims.View",
+            "selected": false,
+            "viewValue": "Access Management View"
+        },
+        {
+            "type": "Permission",
+            "value": "Permissions.AuthClaims.Create",
+            "selected": false,
+            "viewValue": "Access Management Create"
+        },
+        {
+            "type": "Permission",
+            "value": "Permissions.AuthClaims.Edit",
+            "selected": false,
+            "viewValue": "Access Management Edit"
+        },
+        {
+            "type": "Permission",
+            "value": "Permissions.AuthClaims.Delete",
+            "selected": false,
+            "viewValue": "Access Management Delete"
+        },
+        {
+            "type": "Permission",
+            "value": "Permissions.BusinessPartnerClaims.View",
+            "selected": true,
+            "viewValue": "Business Partner View"
+        },
+        {
+            "type": "Permission",
+            "value": "Permissions.BusinessPartnerClaims.Create",
+            "selected": true,
+            "viewValue": "Business Partner Create"
+        }
+        
+    ]
+}

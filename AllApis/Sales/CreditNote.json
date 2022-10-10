@@ -1,0 +1,17 @@
+{
+    "customerId": 2,
+    "noteDate": "2022-09-06",
+    "documentLedgerId": null,
+    "creditNoteLines": [
+        {
+            "itemId": 4,
+            "description": "For Jmeter Testing Entry",
+            "price": 12000.46,
+            "quantity": 2,
+            "tax": 5,
+            "accountId": "53252623-b3d2-4157-9bea-a5ea416a1d23-2",
+            "locationId": 4
+        }
+    ],
+    "isSubmit": false
+}

@@ -1,0 +1,16 @@
+{
+    "vendorId": 2,
+    "noteDate": "2022-09-06",
+    "debitNoteLines": [
+        {
+            "itemId": 4,
+            "description": "For Jmeter Testing Entry.",
+            "cost": 10000,
+            "quantity": 2,
+            "tax": 10,
+            "accountId": "12275e9d-30af-4c95-b2a1-d88777e517d4-2",
+            "locationId": 4
+        }
+    ],
+    "isSubmit": false
+}

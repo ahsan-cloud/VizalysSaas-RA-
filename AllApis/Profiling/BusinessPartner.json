@@ -1,0 +1,18 @@
+{
+    "businessPartnerType": 0,
+    "entity": "Company",
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "name": "Qiyam Gah",
+    "address": "W - 4343",
+    "phone": "02136547988",
+    "mobile": "0225665662",
+    "incomeTaxId": "1",
+    "salesTaxId": "1",
+    "bankAccountTitle": "MCB",
+    "bankAccountNumber": "5555555555555",
+    "accountPayableId": "e93a35fd-aaa1-410e-b604-a33c85c1f21f-2",
+    "accountReceivableId": "3777e8e1-078e-4ce0-a68d-2dded04b79e5-2",
+    "cnic": "4246565656985"
+}
